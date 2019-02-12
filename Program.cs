@@ -7,6 +7,8 @@ namespace vscode
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            retunr 0;
         }
     }
 }
